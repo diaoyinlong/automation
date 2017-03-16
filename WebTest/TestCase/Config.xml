@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <!--Switch environment between Internal and External-->
+    <env>External</env>
+
+    <!--Switch browser between IE and Chrome-->
+    <browser>Chrome</browser>
+
+    <!--If emulate mobile in Chrome True or False-->
+    <emulateMobile>False</emulateMobile>
+
+    <!--Please generate an auctionId when test auction-->
+    <auctionId>20217133</auctionId>
+
+    <!--Please generate a successful tradeId when run app interface test for auction-->
+    <tradeId>85042134</tradeId>
+</root>
